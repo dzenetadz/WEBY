@@ -1,4 +1,4 @@
 <?php
 
-eco "JEBO TE ZIVOT"
+echo "JEBO TE ZIVOT"
 ?>
