@@ -1,4 +1,4 @@
 <?php
 
-echo "JEBO TE ZIVOT"
+echo "hello world";
 ?>
